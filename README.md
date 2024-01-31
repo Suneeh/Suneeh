@@ -21,3 +21,9 @@ I'm a 27-year-old professional full stack dev based in Germany, and I'm passiona
 ## 📫 Contact
 
 Feel free to message me on [Instagram](https://www.instagram.com/_suneeh/).
+
+## 📈 Stats
+
+<img src="https://img.shields.io/endpoint?url=https://wakapi.dev/api/compat/shields/v1/Suneeh/interval:30_days&label=last%2030d">
+
+<img src="https://wakapi.dev/api/activity/chart/Suneeh.svg?dark">
