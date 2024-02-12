@@ -8,7 +8,7 @@ I'm a 27-year-old professional full stack dev based in Germany, and I'm passiona
 
 **Backend Development:** `.NET` `C#` `SQL`
 
-**Testing** `Cypress` `xUnit` `Postman`
+**Testing** `Cypress` `Jasmine` `xUnit` `NSubstitute` `Postman`
 
 **Others** `Confluence` `Azure DevOps` `Scrum`
 
